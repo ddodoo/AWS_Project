@@ -1,0 +1,26 @@
+h1{color:black;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+
+
+}
+
+h2{font-size:40px;
+    font-style:italic;}
+
+#id{font-style: italic;}
+
+.cat{font-style: italic;}
+
+.heading{text-decoration: underline;}
+
+.hello{font-style: italic;}
+
+.roles{font-weight: bold;}
+
+
+body{background-color: seagreen;
+}
